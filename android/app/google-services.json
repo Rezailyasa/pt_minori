@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839520221910",
+    "project_id": "pt-minori",
+    "storage_bucket": "pt-minori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839520221910:android:6434fce999c16e73666777",
+        "android_client_info": {
+          "package_name": "com.minori.test.pt_minori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839520221910-maj62g3m7npmc5l40mcfgg3jmoddq807.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7Uct_UFerrOs8WJDKW-1pXHO3DszNtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839520221910-maj62g3m7npmc5l40mcfgg3jmoddq807.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
